@@ -1,6 +1,7 @@
-### Hi there 👋
+### 
 
-I'm Gonzalo, a Computer Science student in the TU of Valencia. As a self learner I learnt C++ and I'm interested in firmware and space& defense sectors.
+I'm Gonzalo, a Computer Engineering student in the TU of Valencia 🇪🇸. 
 
+As a self learner I learnt **C++** and nowadays I develop **firmware** 🖥️ for **embedded systems** ⚙️ in **C** and **Modern C++**. 
 
-
+I have experience working with **BMS** 🔋 and **ARM microcontrollers**. 
